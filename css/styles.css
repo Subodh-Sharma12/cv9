@@ -1,0 +1,121 @@
+
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'merriwherthe', sans-serif;
+  font-size: 200%;
+}
+h1{
+  width: 10%;
+  margin: 0 auto;
+  font-family:'sacramento',cursive;
+  font-size: 2.62rem;
+  color: #B980F0
+
+}
+h4
+{
+  line-height: 2;
+  color: #595260
+}
+h2
+{
+  color: #A03C78;
+
+}
+h3
+{
+  text-align: left;
+  line-height: 0;
+  color: #A03C78;
+}
+hr{
+  border: dotted #753422 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top{
+  background-color: #FCD8D4;
+  padding-top: 100px;
+}
+.middle{
+  background-color:#50CB93;
+  height: 300px;
+  width: 300px;
+  margin: 43px,auto,20px,auto;
+  border-radius: 100%;
+  position: relative;
+  margin-left: 0%;
+
+}
+.bottom{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  position: relative;
+  margin-left: 43%;
+  border-radius: 100%;
+
+}
+.mountain
+{
+  width: 800px;
+  height: 300px;
+}
+.bottom-cloud
+{
+position: absolute;
+}
+.top-cloud
+{
+  position: relative;
+  bottom: 10px;
+  left: 300px;
+}
+.book-img
+{
+  position: relative;
+  margin-bottom: 100px;
+}
+.btn
+ {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 40px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_JEV:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
